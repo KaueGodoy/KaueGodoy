@@ -98,10 +98,22 @@
   
 </p>
 
-<h1 align="left">Connect with me</h1>
-
-:envelope: <a href="https://www.linkedin.com/in/kaue-godoy" target="_blank" rel="noreferrer">Linkedin</a>
-
 <h1 align="left">Games</h1>
 
+
+  </a>
+  <a href="[https://www.python.org](https://github.com/KaueGodoy/ROGUELIKE)" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="derildosAdventure"
+      width="320"
+      height="auto"
+    />
+  </a>
+
+<h1 align="left">Contact</h1>
+
+:envelope: kauegodoy@live.com
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kauegodoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaue-godoy/)  
 
