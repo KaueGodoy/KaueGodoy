@@ -1,4 +1,9 @@
-<h1 align="center">Hello, I'm Kaue Godoy</h1>
+<h1 align="center">
+  <img align="left" src="KaueRight.gif" alt="kauegodoySprite" />
+  Hello, I'm Kaue Godoy
+  <img align="right" src="KaueLeft.gif" alt="kauegodoySprite" />
+
+</h1>
 
 <h1 align="left">Aspiring Game Developer</h1>
   
@@ -100,8 +105,10 @@
 
 <h1 align="left">Games</h1>
 
-
-  </a>
+<p>
+  Derildo's Adventure (WIP)
+</p>
+  
   <a href="https://github.com/KaueGodoy/ROGUELIKE" target="_blank" rel="noreferrer">
     <img
       src="ezgif.com-add-text.gif"
@@ -114,5 +121,5 @@
 
 :envelope: kauegodoy@live.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kauegodoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaue-godoy/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaue-godoy/)  
 
