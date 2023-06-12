@@ -104,10 +104,9 @@
   </a>
   <a href="[https://www.python.org](https://github.com/KaueGodoy/ROGUELIKE)" target="_blank" rel="noreferrer">
     <img
-      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://github.com/KaueGodoy/KaueGodoy/blob/main/ezgif.com-add-text.gif?raw=true)"
+      src="ezgif.com-add-text.gif"
       alt="derildosAdventure"
-      width="320"
-      height="auto"
+      width="480"
     />
   </a>
 
