@@ -8,7 +8,10 @@
 
 <h1 align="left">Skills</h1>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauegodoy&show_icons=true&locale=en&layout=compact" alt="kauegodoy" /></p>
+
 <h3 align="left">Game Development</h3>
+
 <p align="left">
   
 <p align="left">Main</p>
@@ -95,13 +98,10 @@
   
 </p>
 
-<h1 align="left">Connect with me:</h1>
+<h1 align="left">Connect with me</h1>
 
+:envelope: <a href="https://www.linkedin.com/in/kaue-godoy" target="_blank" rel="noreferrer">Linkedin</a>
 
-<h1 align="left">Stats:</h1>
+<h1 align="left">Games</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauegodoy&show_icons=true&locale=en&layout=compact" alt="kauegodoy" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kauegodoy&" alt="kauegodoy" /></p>
 
