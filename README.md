@@ -102,7 +102,7 @@
 
 
   </a>
-  <a href="[https://www.python.org](https://github.com/KaueGodoy/ROGUELIKE)" target="_blank" rel="noreferrer">
+  <a href="https://github.com/KaueGodoy/ROGUELIKE" target="_blank" rel="noreferrer">
     <img
       src="ezgif.com-add-text.gif"
       alt="derildosAdventure"
