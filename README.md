@@ -105,6 +105,19 @@
 
 <h1 align="left">Games</h1>
 
+
+<p>
+  Ike (Google Play Soon)
+</p>
+  
+  <a href="https://github.com/KaueGodoy/IKE" target="_blank" rel="noreferrer">
+    <img
+      src="ezgif.com-add-text.gif"
+      alt="derildosAdventure"
+      width="480"
+    />
+  </a>
+
 <p>
   Derildo's Adventure (WIP)
 </p>
