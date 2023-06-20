@@ -112,8 +112,8 @@
   
   <a href="https://github.com/KaueGodoy/IKE" target="_blank" rel="noreferrer">
     <img
-      src="ezgif.com-add-text.gif"
-      alt="derildosAdventure"
+      src="IkeScreenshot.png"
+      alt="Ike"
       width="480"
     />
   </a>
