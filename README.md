@@ -112,7 +112,7 @@
   
   <a href="https://github.com/KaueGodoy/IKE" target="_blank" rel="noreferrer">
     <img
-      src="IkeScreenshot.png"
+      src="ezgif-1-59408c9205.gif"
       alt="Ike"
       width="480"
     />
