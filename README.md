@@ -107,7 +107,7 @@
 
 
 <p>
-  Ike (Google Play Soon)
+  Ike (Google Play version in development)
 </p>
   
   <a href="https://github.com/KaueGodoy/IKE" target="_blank" rel="noreferrer">
