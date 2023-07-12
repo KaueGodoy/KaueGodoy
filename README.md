@@ -1,11 +1,11 @@
 <h1 align="center">
   <img align="left" src="KaueRight.gif" alt="kauegodoySprite" />
-  Hello, I'm Kaue Godoy
+  Kaue Godoy
   <img align="right" src="KaueLeft.gif" alt="kauegodoySprite" />
 
 </h1>
 
-<h1 align="left">Aspiring Game Developer</h1>
+<h1 align="center">Aspiring Game Developer</h1>
   
 :game_die: Currently learning **Unity**
 
@@ -105,9 +105,12 @@
 
 <h1 align="left">Games</h1>
 
+<h3 align="left">Ike</h3>
 
 <p>
-  Ike (Google Play version in development)
+ global game jam 2023 
+  
+ remake version in development
 </p>
   
   <a href="https://github.com/KaueGodoy/IKE" target="_blank" rel="noreferrer">
@@ -118,8 +121,12 @@
     />
   </a>
 
+<h3 align="left">Derildo's Adventure</h3>
+
 <p>
-  Derildo's Adventure (WIP)
+  roguelike
+  
+  final paper [work in progress]
 </p>
   
   <a href="https://github.com/KaueGodoy/ROGUELIKE" target="_blank" rel="noreferrer">
@@ -130,9 +137,26 @@
     />
   </a>
 
+<h1 align="left">Website</h1>
+
+<h3 align="left">Derildo's Adventure website</h3>
+
+<p>
+  HTML, CSS, JS, PHP
+</p>
+  
+  <a href="https://github.com/KaueGodoy/ROGUELIKE" target="_blank" rel="noreferrer">
+    <img
+      src="ezgif.com-add-text.gif"
+      alt="derildosAdventure"
+      width="480"
+    />
+  </a>
+  
+<p>
+  
 <h1 align="left">Contact</h1>
 
 :envelope: kauegodoy@live.com
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaue-godoy/)  
 
