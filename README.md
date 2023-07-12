@@ -145,13 +145,13 @@
   HTML, CSS, JS, PHP
 </p>
   
-  <a href="https://github.com/KaueGodoy/ROGUELIKE" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img
-      src="ezgif.com-add-text.gif"
-      alt="derildosAdventure"
+      src="DerildoWebsite.png"
+      alt="derildosAdventureWebsite"
       width="480"
     />
-  </a>
+    
   
 <p>
   
