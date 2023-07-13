@@ -145,7 +145,7 @@
   HTML, CSS, JS, PHP
 </p>
   
-  <a href="_blank" target="_blank" rel="noreferrer">
+  <a href="https://github.com/KaueGodoy/ROGUELIKE" target="_blank" rel="noreferrer">
     <img
       src="DerildoWebsite.png"
       alt="derildosAdventureWebsite"
