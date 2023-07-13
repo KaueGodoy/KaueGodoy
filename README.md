@@ -145,7 +145,7 @@
   HTML, CSS, JS, PHP
 </p>
   
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="_blank" target="_blank" rel="noreferrer">
     <img
       src="DerildoWebsite.png"
       alt="derildosAdventureWebsite"
