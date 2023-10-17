@@ -5,11 +5,11 @@
 
 </h1>
 
-<h1 align="center">Aspiring Game Developer</h1>
+<h1 align="center">Game Developer</h1>
   
 :game_die: Currently learning **Unity**
 
-:video_game: Working on [a roguelike game](https://github.com/KaueGodoy/ROGUELIKE)
+:video_game: Working on [a metroidvania game](https://github.com/KaueGodoy/ROGUELIKE)
 
 <h1 align="left">Skills</h1>
 
@@ -121,10 +121,10 @@
     />
   </a>
 
-<h3 align="left">Derildo's Adventure</h3>
+<h3 align="left">Camundangos</h3>
 
 <p>
-  roguelike
+  metroidvania
   
   final paper [work in progress]
 </p>
@@ -139,7 +139,7 @@
 
 <h1 align="left">Website</h1>
 
-<h3 align="left">Derildo's Adventure website</h3>
+<h3 align="left">Derildo's Adventure website (old game project)</h3>
 
 <p>
   HTML, CSS, JS, PHP
