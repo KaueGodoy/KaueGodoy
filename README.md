@@ -98,7 +98,7 @@
 <p align="left">
 :brazil: Native language
   
-:us: Fluent level
+:us: Fluent level (TOEIC C1)
   
 :jp: Advanced level (JLPT N2)
   
