@@ -1,15 +1,7 @@
 <h1 align="center">
   <img align="left" src="KaueRight.gif" alt="kauegodoySprite" />
-  Kaue Godoy
+  Game Developer <br>
   <img align="right" src="KaueLeft.gif" alt="kauegodoySprite" />
-
-</h1>
-
-<h1 align="center">Game Developer</h1>
-  
-:game_die: Currently learning **Unity**
-
-:video_game: Working on [a metroidvania game](https://github.com/KaueGodoy/ROGUELIKE)
 
 <h1 align="left">Skills</h1>
 
@@ -33,6 +25,15 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
+      width="40"
+      height="40"
+    />
+  </a>
+  <br>
+    <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg"
+      alt="godot"
       width="40"
       height="40"
     />
@@ -108,10 +109,8 @@
 <h3 align="left">Ike</h3>
 
 <p>
- global game jam 2023 
-  
- remake version in development
-</p>
+ Global Game Jam 2023
+  </p>
   
   <a href="https://github.com/KaueGodoy/IKE" target="_blank" rel="noreferrer">
     <img
@@ -124,11 +123,8 @@
 <h3 align="left">Camundangos</h3>
 
 <p>
-  metroidvania
-  
-  final paper [work in progress]
+Metroidvania [Final Paper]
 </p>
-  
   <a href="https://github.com/KaueGodoy/ROGUELIKE" target="_blank" rel="noreferrer">
     <img
       src="ezgif.com-add-text.gif"
@@ -136,24 +132,6 @@
       width="480"
     />
   </a>
-
-<h1 align="left">Website</h1>
-
-<h3 align="left">Derildo's Adventure website (old game project)</h3>
-
-<p>
-  HTML, CSS, JS, PHP
-</p>
-  
-  <a href="https://github.com/KaueGodoy/ROGUELIKE" target="_blank" rel="noreferrer">
-    <img
-      src="DerildoWebsite.png"
-      alt="derildosAdventureWebsite"
-      width="480"
-    />
-    
-  
-<p>
   
 <h1 align="left">Contact</h1>
 
