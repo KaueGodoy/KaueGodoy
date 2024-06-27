@@ -126,11 +126,7 @@
 Metroidvania [Final Paper]
 </p>
   <a href="https://github.com/KaueGodoy/ROGUELIKE" target="_blank" rel="noreferrer">
-    <img
-      src="ezgif.com-add-text.gif"
-      alt="derildosAdventure"
-      width="480"
-    />
+
   </a>
   
 <h1 align="left">Contact</h1>
