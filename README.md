@@ -80,9 +80,11 @@
 </a>
 
 ---
-
 <h2 align="left">Contact</h2>
 <p align="left">
   :email: <a href="mailto:kauegodoy@live.com">kauegodoy@live.com</a><br>
-  :envelope: <a href="https://www.linkedin.com/in/kaue-godoy/">LinkedIn</a>
+  :envelope: <a href="https://www.linkedin.com/in/kaue-godoy/">LinkedIn</a><br>
+  :file_folder: <a href="https://drive.google.com/file/d/17ql8dPzeobyhc-H4zl9JY3EZVDnF5RQ_/view">Curriculum Vitae</a>
 </p>
+
+
