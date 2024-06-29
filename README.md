@@ -4,7 +4,9 @@
   <img align="right" src="KaueLeft.gif" alt="kauegodoySprite" />
 </h1>
 
-<p align="center">Hi there! I'm Kaue Godoy, a passionate game developer with experience in creating 2D, 3D and VR games. Welcome to my GitHub profile!</p>
+<p align="center">Hi there! I'm Kaue Godoy, a passionate game developer with experience in creating 2D, 3D and VR games.</p>
+<p align="center">Welcome to my GitHub profile!</p>
+
 
 ---
 
