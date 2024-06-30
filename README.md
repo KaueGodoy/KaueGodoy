@@ -75,8 +75,8 @@
 
 <h3 align="left">Camundangos</h3>
 <p>Metroidvania [Final Paper]</p>
-<a href="https://github.com/KaueGodoy/ROGUELIKE" target="_blank" rel="noreferrer">
-  <img src="YOUR_IMAGE_URL" alt="Camundangos" width="480" />
+<a href="https://github.com/KaueGodoy/Camundangos" target="_blank" rel="noreferrer">
+  <img src="https://imgur.com/faTkvnh.png" alt="Camundangos" width="480" />
 </a>
 
 ---
@@ -84,7 +84,7 @@
 <p align="left">
   :email: <a href="mailto:kauegodoy@live.com">kauegodoy@live.com</a><br>
   :envelope: <a href="https://www.linkedin.com/in/kaue-godoy/">LinkedIn</a><br>
-  :file_folder: <a href="https://drive.google.com/file/d/17ql8dPzeobyhc-H4zl9JY3EZVDnF5RQ_/view">Curriculum Vitae</a>
+  :file_folder: <a href="https://drive.google.com/file/d/184tXaToS6pe3s8caH21T1_d3vRSlLK9K/view">Curriculum Vitae</a>
 </p>
 
 
