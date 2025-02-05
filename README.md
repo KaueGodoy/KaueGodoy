@@ -4,15 +4,12 @@
   Game Developer | Back-end Developer
 </h1>
 
+<p align="center">Welcome to my GitHub profile!</p>
 <p align="center">
-  Hi there! I'm Kaue Godoy, a developer with experience in singleplayer, multiplayer, 2D, 3D, and VR games, as well as web applications.
+  I'm Kaue Godoy, a developer with experience in singleplayer, multiplayer, 2D, 3D, and VR games, as well as web applications.
 </p>
 
-<p align="center">Welcome to my GitHub profile!</p>
-
-
-
-## 🚀 Skills
+## Skills
 
 ### 🎮 Game Development
 
@@ -62,7 +59,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages</h3>
+<h3 align="left">🌏 Languages</h3>
 <p align="left">
   <strong>:brazil: Portuguese</strong> (Native)<br>
   <strong>:us: English</strong> (Fluent, TOEIC C1)<br>
@@ -89,16 +86,6 @@
 </a>
 
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauegodoy&show_icons=true&locale=en&layout=compact" alt="Kaue's GitHub Stats" />
-</p>
-
-  </a>
-</p>
 
 <h2 align="left">Contact</h2>
 <p align="left">
