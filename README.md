@@ -91,6 +91,6 @@
 <p align="left">
   📧 <strong>Email:</strong> <a href="mailto:kauegodoy@live.com">kauegodoy@live.com</a><br>
   🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kaue-godoy/">Kaue Godoy</a><br>
-  📄 <strong>Resume:</strong> <a href="https://drive.google.com/file/d/184tXaToS6pe3s8caH21T1_d3vRSlLK9K/view">Curriculum Vitae</a>
+  📄 <strong>Resume:</strong> <a href="https://drive.google.com/file/d/1ESM7J6qOgSHqfnRGDiErgMBXGEumvKGp/view">Curriculum Vitae</a>
 </p>
 
